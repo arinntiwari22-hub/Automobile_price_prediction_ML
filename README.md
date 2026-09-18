@@ -107,7 +107,7 @@ Ten regression models were trained and evaluated on the held-out test set, using
 
 ```bash
 # Clone the repository
-git clone https://github.com/yashwant2002/Automobile_price_prediction_ML.git
+git clone https://github.com/arinntiwari22-hub/Automobile_price_prediction_ML.git
 cd PRCP-1017-AutoPricePred
 
 # Create a virtual environment
@@ -167,7 +167,7 @@ PRCP-1017-AutoPricePred/
 
 ## 👤 Author
 
-*Yashwant Sahu*
-*yashsahu3333@gmail.com*
+*Arin Tiwari*
+*arinntiwari22@gmail.com*
 
 Project completed as part of a Data Science Capstone (PRCP-1017).
